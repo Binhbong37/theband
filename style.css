@@ -470,7 +470,7 @@ footer .social-list a:hover {
     width: 900px;
     max-width: calc(100% - 32px);
     background-color: #fff;
-    animation: modalFadin ease 0.3s;
+    animation: modalFadin ease 0.5s;
 }
 
 .modal-close {
