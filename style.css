@@ -307,6 +307,8 @@ li {
     cursor: pointer;
     transition: all 0.25s ease;
     border-radius: 5px;
+    appearance: none;
+    -webkit-appearance: none;
 }
 
 .buy-btn:hover {
